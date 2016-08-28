@@ -1,0 +1,9 @@
+{
+  "name": "ricoh-storage-api-sample",
+  "description": "Ricoh Storage API Sample",
+  "repository": "https://github.com/ricohapi/p-media-storage-sample-app",
+  "keywords": ["ricoh", "theta", "storage api"],
+  "scripts": {
+    "postdeploy": "bundle exec rake db:migrate"
+  }
+}
