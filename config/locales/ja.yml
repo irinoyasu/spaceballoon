@@ -11,7 +11,7 @@ ja:
   images:
     index:
       heading: 画像一覧
-      description: Upload した画像のサムネイルを確認できます。
+      description: 
     show:
       heading: 画像詳細
       description: オリジナル画像の確認やタグ付けが行えます。
